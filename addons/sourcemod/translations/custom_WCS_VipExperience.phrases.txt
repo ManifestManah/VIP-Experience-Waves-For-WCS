@@ -1,0 +1,21 @@
+"Phrases"
+{
+	"VIP Experience Reward"
+	{
+		"#format"		"{1:i}"
+		"en"			"{green}[WCS] {default}You gained {lightgreen}{1} bonus XP{default} for being a VIP."
+		"da"			"{green}[WCS] {default}Du modtog {lightgreen}{1} bonus XP{default} fordi du er en VIP."
+	}
+
+	"VIP Experience Messages Enabled"
+	{
+		"en"			"{green}[WCS] {default}The VIP experience messages are now {lightgreen}turned on{default}."
+		"da"			"{green}[WCS] {default}VIP Experience beskederne blev {lightgreen}slået til{default}."
+	}
+
+	"VIP Experience Messages Disabled"
+	{
+		"en"			"{green}[WCS] {default}The VIP experience messages are now {lightgreen}turned off{default}."
+		"da"			"{green}[WCS] {default}VIP Experience beskederne blev {lightgreen}slået fra{default}."
+	}
+}
